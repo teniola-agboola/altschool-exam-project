@@ -20,13 +20,17 @@ Provision and deploy a dynamic landing page on a cloud-based Linux server to dem
 | *Domain (Free)* | DuckDNS (edupeer.duckdns.org) |
 | *Static Site* | HTML, CSS (with some animation) |
 | *Security* | Ports 80 (HTTP) and 443 (HTTPS) allowed |
+## 🌍 Hosted File
+- `index.html` is served at root via Nginx from `/var/www/html`
+
 
 Access the Live Site
 
 > *URL*: http://edupeer.duckdns.org  
 > (Note: HTTPS setup was attempted but failed due to DNS verification issues with DuckDNS.)
+> *Public IP address where the page is hosted*: http://13.43.94.158/
 
 ## Screenshot
 
-![Screenshot](./screenshot1.png.png) 
+![EduPeer Landing Page Screenshot](./screenshot1.png.png) 
 
