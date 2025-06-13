@@ -28,5 +28,5 @@ Access the Live Site
 
 ## Screenshot
 
-![Screenshot](./screenshot1.png) 
+![Screenshot](./screenshot1.png.png) 
 
